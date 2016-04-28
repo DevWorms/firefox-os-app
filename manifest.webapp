@@ -1,0 +1,24 @@
+{
+  "name": "WhereIAm?",
+  "description": "Find yourself in the biggest cities",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+
+  "developer": 
+
+{
+    "name": "Emmanuel Orozco",
+    "url": "http://www.rockreflector.blogspot"
+  },
+
+  "default_locale": "en",
+
+	"type": "privileged",
+	"permissions": {
+		"geolocation": {
+			"description" : "Used to locate me"
+				}
+			}
+}
